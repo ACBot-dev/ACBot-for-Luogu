@@ -33,7 +33,35 @@ cd ACBot
 https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 ```
 
+对于Chrome浏览器用户，你需要安装ChromeDriver:
+
+国内镜像:
+```html
+https://chromedriver.storage.googleapis.com/index.html?spm=a2c6h.12873639.article-detail.7.8c827220LeCh0h
+```
+
+官网(需翻墙):
+```html
+https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-cn
+```
+
 就是这样！
+
+## <span id="ksks">配置ACBot</span>
+
+在ACBot的运行目录下，会自动生成一个config.ini文件，你可以通过修改此文件配置ACBot
+
+一下是config.ini的默认内容:
+```
+[DEFAULT]
+browser = edge
+edge_path = C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+edgedriver_path = C:\edgedriver_win64\msedgedriver.exe
+chrome_path = C:\Program Files\Google\Chrome\Application\chrome.exe
+chromedriver_path = C:\chromedriver_win32\chromedriver.exe
+```
+
+过于简单，直接按照个人修改即可，这里不做过多的解释
 
 ## <span id="gy">关于</span>
 
