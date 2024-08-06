@@ -28,7 +28,7 @@ cd ACBot
 
 暂不支持 Linux 或其它操作系统。
 
-对于Edge浏览器用户，你需要安装EdgeDrver：
+对于Edge浏览器用户，你需要安装EdgeDriver：
 ```html
 https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 ```
