@@ -9,25 +9,6 @@ Auto AC Bot
 
 ## <span id="ksks">快速开始</span>
 
-你需要有 [Python 3](https://www.python.org/) 安装。然后运行以下命令安装依赖项并启动 ACBot。
-
-```bash
-git clone https://github.com/ACBot-dev/ACBot.git
-```
-
-```bash
-cd ACBot
-```
-
-如果您使用的是 Windows 操作系统，则输入：
-
-```bash
-.\install-dependencies.bat
-.\run.bat
-```
-
-暂不支持 Linux 或其它操作系统。
-
 对于Edge浏览器用户，你需要安装EdgeDriver：
 ```html
 https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
