@@ -48,5 +48,3 @@ format_code = True
 ## <span id="gy">关于</span>
 
 ACBot 是由 ACBot-dev 团队制作的一个 AC 自动机，它是基于 Python 3 与第三方库的程序。
-
-Love From wzhy233 & dctc1949
