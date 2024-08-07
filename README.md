@@ -1,6 +1,6 @@
 # ACBot
 
-Auto AC Bot
+Auto AC Bot for Luogu 
 
 ## 目录
 
