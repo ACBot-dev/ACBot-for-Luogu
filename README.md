@@ -1,6 +1,6 @@
 # ACBot
 
-本项目不开源
+Auto AC Bot
 
 ## 目录
 
