@@ -41,6 +41,7 @@ edgedriver_path = C:\edgedriver_win64\msedgedriver.exe
 chrome_path = C:\Program Files\Google\Chrome\Application\chrome.exe
 chromedriver_path = C:\chromedriver_win32\chromedriver.exe
 format_code = True
+anti-comments = True
 ```
 
 过于简单，直接按照个人修改即可，这里不做过多的解释
