@@ -40,7 +40,7 @@ edge_path = C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
 edgedriver_path = C:\edgedriver_win64\msedgedriver.exe
 chrome_path = C:\Program Files\Google\Chrome\Application\chrome.exe
 chromedriver_path = C:\chromedriver_win32\chromedriver.exe
-format_code = True
+anti-comments = True
 anti-non-code = True
 ```
 
