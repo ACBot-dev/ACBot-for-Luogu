@@ -1,6 +1,6 @@
 # ACBot
 
-Auto AC Bot for Luogu 
+Auto AC Bot for Luogu (已被害死)
 
 ## 目录
 
@@ -30,7 +30,7 @@ https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-cn
 
 ## <span id="ksks">配置ACBot</span>
 
-在 %appdata%//ACBot 下，会自动生成一个名为 ACBot 的文件夹，你可以通过修改此文件夹下的子目录 Config 内的Confit.ini 文件来配置ACBot
+在 % appdata %//ACBot 下，会自动生成一个名为 ACBot 的文件夹，你可以通过修改此文件夹下的子目录 Config 内的Config.ini 文件来配置ACBot
 
 一下是config.ini的默认内容:
 ```
